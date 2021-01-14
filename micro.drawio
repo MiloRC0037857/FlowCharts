@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T14:15:38.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="pK0C5SRxgpyZAezaON6x" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T14:30:40.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="KV-OUFtciLhSuB-pzXi1" version="14.2.2" type="github">
   <diagram id="xVNfIB4QLyv4ymsCst2p" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,33 +16,14 @@
         <mxCell id="6cLyZgNCLurVuaL3AfpP-2" value="Setup" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="140" y="100" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6cLyZgNCLurVuaL3AfpP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6cLyZgNCLurVuaL3AfpP-3" target="6cLyZgNCLurVuaL3AfpP-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6cLyZgNCLurVuaL3AfpP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="6cLyZgNCLurVuaL3AfpP-3" target="6cLyZgNCLurVuaL3AfpP-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="120" y="210" />
-              <mxPoint x="120" y="610" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6cLyZgNCLurVuaL3AfpP-3" value="Is switch presssed" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="140" y="160" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="6cLyZgNCLurVuaL3AfpP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="6cLyZgNCLurVuaL3AfpP-4" target="6cLyZgNCLurVuaL3AfpP-17">
+        <mxCell id="6cLyZgNCLurVuaL3AfpP-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="6cLyZgNCLurVuaL3AfpP-4" target="6cLyZgNCLurVuaL3AfpP-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6cLyZgNCLurVuaL3AfpP-4" value="Turn LED on" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="140" y="280" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6cLyZgNCLurVuaL3AfpP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="6cLyZgNCLurVuaL3AfpP-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6cLyZgNCLurVuaL3AfpP-10" value="Turn LED off" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="140" y="580" width="100" height="60" as="geometry" />
+        <mxCell id="6cLyZgNCLurVuaL3AfpP-4" value="Turn Green&lt;br&gt;Car LED off" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="20" y="300" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6cLyZgNCLurVuaL3AfpP-12" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="250" width="40" height="20" as="geometry" />
@@ -50,30 +31,57 @@
         <mxCell id="6cLyZgNCLurVuaL3AfpP-13" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="190" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6cLyZgNCLurVuaL3AfpP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="6cLyZgNCLurVuaL3AfpP-17" target="6cLyZgNCLurVuaL3AfpP-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="6cLyZgNCLurVuaL3AfpP-17" value="Delay 0.5s" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="140" y="360" width="100" height="40" as="geometry" />
+          <mxGeometry x="530" y="70" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6cLyZgNCLurVuaL3AfpP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="6cLyZgNCLurVuaL3AfpP-18" target="6cLyZgNCLurVuaL3AfpP-19">
+        <mxCell id="6cLyZgNCLurVuaL3AfpP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="6cLyZgNCLurVuaL3AfpP-24" target="6cLyZgNCLurVuaL3AfpP-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6cLyZgNCLurVuaL3AfpP-18" value="Turn LED off" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="140" y="420" width="100" height="60" as="geometry" />
+        <mxCell id="6cLyZgNCLurVuaL3AfpP-24" value="Turn Amber&lt;br&gt;Car LED on" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="20" y="370" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6cLyZgNCLurVuaL3AfpP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="6cLyZgNCLurVuaL3AfpP-19">
+        <mxCell id="6cLyZgNCLurVuaL3AfpP-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="6cLyZgNCLurVuaL3AfpP-26" target="6cLyZgNCLurVuaL3AfpP-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6cLyZgNCLurVuaL3AfpP-26" value="Delay 1s" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6cLyZgNCLurVuaL3AfpP-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="6cLyZgNCLurVuaL3AfpP-27" target="6cLyZgNCLurVuaL3AfpP-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6cLyZgNCLurVuaL3AfpP-27" value="Turn Amber&lt;br&gt;Car LED off" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="20" y="490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6cLyZgNCLurVuaL3AfpP-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="6cLyZgNCLurVuaL3AfpP-28" target="6cLyZgNCLurVuaL3AfpP-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6cLyZgNCLurVuaL3AfpP-28" value="Turn Red&lt;br&gt;Car LED on" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="20" y="560" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6cLyZgNCLurVuaL3AfpP-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="6cLyZgNCLurVuaL3AfpP-29" target="6cLyZgNCLurVuaL3AfpP-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6cLyZgNCLurVuaL3AfpP-29" value="Delay 0.5s" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="630" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6cLyZgNCLurVuaL3AfpP-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="6cLyZgNCLurVuaL3AfpP-30" target="6cLyZgNCLurVuaL3AfpP-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="150" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="560" />
-              <mxPoint x="270" y="560" />
-              <mxPoint x="270" y="150" />
+              <mxPoint x="70" y="760" />
+              <mxPoint x="130" y="760" />
+              <mxPoint x="130" y="280" />
+              <mxPoint x="190" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6cLyZgNCLurVuaL3AfpP-19" value="Delay 0.5s" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="140" y="500" width="100" height="40" as="geometry" />
+        <mxCell id="6cLyZgNCLurVuaL3AfpP-30" value="Turn Red&lt;br&gt;People LED off" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="20" y="680" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6cLyZgNCLurVuaL3AfpP-31" value="Turn Green&lt;br&gt;People LED on" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="140" y="300" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6cLyZgNCLurVuaL3AfpP-32" value="Delay 3s" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="140" y="370" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
