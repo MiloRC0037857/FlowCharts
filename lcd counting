@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T20:27:32.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="p0xqMKzb5xqkzdHSdasV" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T20:32:24.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="ZTWYVNNBOBkwkK0FAb8-" version="14.4.4" type="github">
   <diagram id="UB1U7OVPmBEEQMqlYn0F" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,9 +21,6 @@
         <mxCell id="LyGY0-Gz8Odd5QmLfGXy-4" value="Setup" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="130" y="100" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LyGY0-Gz8Odd5QmLfGXy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LyGY0-Gz8Odd5QmLfGXy-8" target="LyGY0-Gz8Odd5QmLfGXy-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="LyGY0-Gz8Odd5QmLfGXy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LyGY0-Gz8Odd5QmLfGXy-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="150" as="targetPoint" />
@@ -33,6 +30,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="LyGY0-Gz8Odd5QmLfGXy-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LyGY0-Gz8Odd5QmLfGXy-8" target="LyGY0-Gz8Odd5QmLfGXy-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LyGY0-Gz8Odd5QmLfGXy-8" value="Does time &amp;lt;101" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="130" y="230" width="100" height="100" as="geometry" />
         </mxCell>
@@ -40,26 +40,26 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LyGY0-Gz8Odd5QmLfGXy-9" value="Clear LCD and set cursor to beginning" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="130" y="350" width="100" height="50" as="geometry" />
+          <mxGeometry x="130" y="420" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LyGY0-Gz8Odd5QmLfGXy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LyGY0-Gz8Odd5QmLfGXy-10" target="LyGY0-Gz8Odd5QmLfGXy-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LyGY0-Gz8Odd5QmLfGXy-10" value="Print time&lt;br&gt;and s" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="130" y="420" width="100" height="50" as="geometry" />
+          <mxGeometry x="130" y="490" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LyGY0-Gz8Odd5QmLfGXy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LyGY0-Gz8Odd5QmLfGXy-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="220" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="560" />
-              <mxPoint x="250" y="560" />
+              <mxPoint x="180" y="630" />
+              <mxPoint x="250" y="630" />
               <mxPoint x="250" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LyGY0-Gz8Odd5QmLfGXy-11" value="Delay 1s" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="130" y="490" width="100" height="50" as="geometry" />
+          <mxGeometry x="130" y="560" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LyGY0-Gz8Odd5QmLfGXy-17" value="Set time to 0" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="130" y="160" width="100" height="50" as="geometry" />
@@ -69,6 +69,12 @@
         </mxCell>
         <mxCell id="LyGY0-Gz8Odd5QmLfGXy-21" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="260" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LyGY0-Gz8Odd5QmLfGXy-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LyGY0-Gz8Odd5QmLfGXy-22" target="LyGY0-Gz8Odd5QmLfGXy-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LyGY0-Gz8Odd5QmLfGXy-22" value="Time + 1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="130" y="350" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
